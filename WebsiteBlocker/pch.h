@@ -1,0 +1,10 @@
+﻿#pragma once
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <filesystem>
+#include <sstream>
+#include <windows.h>
+#include <shellapi.h>
